@@ -1,14 +1,14 @@
 {
   "name": "facebox-google-photos",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Train Facebox Using Public Google Photos Album",
-  "main": "index.js",
+  "main": "./bin/facebox-google-photos.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node ./bin/facebox-google-photos.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "facebox-google-photos": "index.js"
+    "facebox-google-photos": "./bin/facebox-google-photos.js"
   },
   "author": "",
   "license": "ISC",

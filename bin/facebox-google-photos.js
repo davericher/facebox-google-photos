@@ -1,9 +1,9 @@
 const sade = require('sade');
 const chalk = require('chalk');
-const package = require('./package');
+const package = require('../package');
 const {
     handleSeed
-} = require('./src/faceboxSeed');
+} = require('../src/faceboxSeed');
 
 
 try {
