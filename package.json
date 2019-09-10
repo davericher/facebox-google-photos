@@ -1,6 +1,6 @@
 {
   "name": "facebox-google-photos",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Train Facebox Using Public Google Photos Album",
   "main": "./bin/facebox-google-photos.js",
   "scripts": {
