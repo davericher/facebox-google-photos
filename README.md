@@ -44,4 +44,4 @@ facebox-google-photos [options]
 
 ## Author
 
-Dave Richer / [davericher@gmail.com](mailto:davericher@gmail.com) ([https://www.dopebuild.com](https://www.dopebuilds.com))
+Dave Richer / [davericher@gmail.com](mailto:davericher@gmail.com) ([https://www.dopebuild.com](https://www.dopebuild.com))
