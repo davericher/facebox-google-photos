@@ -1,7 +1,7 @@
 {
   "name": "facebox-google-photos",
-  "version": "1.0.5",
-  "description": "Train Facebox Using Public Google Photos Album",
+  "version": "1.0.6",
+  "description": "A Tool to rapidly train Facebox using a public Google Photos Album",
   "main": "./bin/facebox-google-photos.js",
   "scripts": {
     "start": "node ./bin/facebox-google-photos.js",
@@ -10,7 +10,16 @@
   "bin": {
     "facebox-google-photos": "./bin/facebox-google-photos"
   },
-  "author": "",
+  "repository": "github:davericher/facebox-google-photos",
+  "author": "Dave Richer <davericher@gmail.com> (https://www.dopebuilds.com)",
+  "homepage": "https://www.github.com/davericher/facebox-google-photos",
+  "bugs": "https://github.com/davericher/facebox-google-photos/issues",
+  "keywords": [
+    "facebox",
+    "facial recognition",
+    "homeassistant",
+    "google photos"
+  ],
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.4.2",
